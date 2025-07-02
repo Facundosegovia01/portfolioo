@@ -1,3 +1,1 @@
-# portfolioo
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Facundosegovia01/portfolioo)
